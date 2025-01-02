@@ -13,8 +13,8 @@ This project is a simple **Product Listing Page** that displays a list of produc
 ## Technologies Used
 
 - **Frontend**: React, Material-UI
-- **Backend**: Node.js, Express (if using a backend API)
-- **Database**: (if applicable, mention the database you're using)
+- **Backend**: Node.js, Express 
+- **Database**: json file
 - **State Management**: React Context API
 - **Package Manager**: npm or yarn
 
